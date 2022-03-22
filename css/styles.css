@@ -1,0 +1,79 @@
+.foto {
+    margin: 0px auto;
+    display: block;
+    text-align: center;
+    
+}
+
+header {
+    background: #E6E6E6;
+}
+
+h1 {
+    color: #005677;
+    background: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+
+main {
+    position: relative;
+    top: 200px;
+}
+
+h2 {
+    color: #005677;
+    background: #C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+
+ul span {
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer { 
+    background: #005677;
+    position: relative;
+    top: 400px;
+}
+
+footer span {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+    position: relative;
+    left: 550px;
+}
+
+.logoinstagram {
+position: relative;
+left: -520px;
+top: 3px;
+}
+
+.logolinkedin {
+    position: relative;
+    left: -500px;
+    top: 3px
+}
